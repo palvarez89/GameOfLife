@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">GameOfLife</string>
+    <string name="titulo">El juego de la vida</string>
+    <string name="autor">Pedro Alvarez Piedehierro</string>
+    <string name="curso">Curso 2011/2012</string>
+    <string name="asignatura">Asignatura: LINEX</string>
+    <string name="play">Jugar</string>
+    <string name="botonNext">Siguiente</string>
+    <string name="botonStart">Empezar</string>
+    <string name="botonStop">Parar</string>
+    <string name="generacion">Gen. nº: 0</string>
+
+</resources>
