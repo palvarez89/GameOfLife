@@ -2,7 +2,6 @@ package com.uex.gameoflife;
 
 import android.app.Activity;
 import android.content.res.Configuration;
-import android.graphics.drawable.Drawable;
 
 import android.view.Gravity;
 import android.view.View;
